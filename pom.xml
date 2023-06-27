@@ -12,11 +12,12 @@
     <artifactId>high-duty</artifactId>
     <version>0.0.1</version>
     <name>high-duty</name>
-    <description>high-duty</description>
+    <description>high-duty高强度</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
+        <!-- spring security 安全认证 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
